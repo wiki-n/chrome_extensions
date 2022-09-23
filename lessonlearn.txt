@@ -1,0 +1,6 @@
+1. action on manifest file
+- stand for chrome.action
+- control the extension's icon in the toolbar
+- availability form Chrome88+, MV3+
+- control: icon (on toolbar) source, tooltip, badge (only set programmatically), popup, enable/disable state, injecting a content script on click
+https://developer.chrome.com/docs/extensions/reference/action/
